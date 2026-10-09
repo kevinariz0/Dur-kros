@@ -43,9 +43,5 @@ Cómo jugar
 
 No hay que compilar nada. Abre `index.html` en un navegador moderno (Chrome, Firefox, Safari
 o Edge) y ya está.
+o descarga el apk y lo instala
 
-```bash
-git clone https://github.com/tu-usuario/durkros.git
-cd durkros
-# Abre index.html directamente, o sirve la carpeta con:
-python3 -m http.server 8080
